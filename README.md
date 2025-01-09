@@ -63,5 +63,5 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo license para
 ## 📞 Contato
 Para dúvidas ou sugestões, entre em contato:
 
-Email: shnakashimanakata@gmail.com
-LinkedIn: https://www.linkedin.com/in/sergio-hideki/
+- Email: shnakashimanakata@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sergio-hideki/
