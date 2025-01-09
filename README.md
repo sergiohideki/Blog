@@ -55,11 +55,6 @@ Edite os templates em /templates para alterar o cabeçalho ou rodapé.
 
 ---
 
-## 📜 Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo license para mais detalhes.
-
----
-
 ## 📞 Contato
 Para dúvidas ou sugestões, entre em contato:
 
